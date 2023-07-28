@@ -8,8 +8,6 @@ Simple API to get Prayer Times in Uzbekistan throughout various regions.
 /get/prayer_times/?region_id=43&month=2&day=2&language=uz
 
 /get/monthly_prayer_times/?region_id=43&month=2&language=uz
-
-/get/monthly_prayer_times/?region_id=43&month=2&language=uz
 ```
 
 ### ⚠️ Available languages: 🇺🇿 ,🇬🇧
